@@ -1,0 +1,54 @@
+#id
+{
+    background-color: brown;
+}
+.basis
+{
+    background-color: rgb(241, 234, 219);
+}
+.start-page
+{
+    text-align: center;
+    margin: auto 0px;
+}
+.planet
+{
+    text-align: center;
+    padding: 15px;
+    font-size: 15px;
+    font-family: irel;
+}
+
+.image-block.center 
+{
+    text-align: center;
+}
+.name-block.left
+{
+    text-align: left;
+}
+p.text-block
+{
+ font-size: 16px;
+}
+.text-changes
+{
+    color: blue;
+    text-decoration: underline;
+}
+.name-block left
+{
+    text-align: left;
+}
+.name-block-right
+{
+    text-align: right;
+}
+.image-block-right
+{
+    text-align: right;
+}
+.name-block-center
+{
+    text-align: center;
+}
